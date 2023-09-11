@@ -1,0 +1,5 @@
+C:\Users\MSohaib\Desktop\published\Calculator.exe
+C:\Users\MSohaib\Desktop\published\Calculator.dll
+C:\Users\MSohaib\Desktop\published\Calculator.deps.json
+C:\Users\MSohaib\Desktop\published\Calculator.runtimeconfig.json
+C:\Users\MSohaib\Desktop\published\Calculator.pdb
